@@ -1,0 +1,6 @@
+Instruction for the project after cloning it.
+1. Clone the whole project on the local computer.
+2. Extract the hea.rar file into same folder. 
+3. Copy the python notebook file into the folder in which data you extracted and run Jupyter notebook inside the folder and run the code.
+4. Output must vary from the original outputs.
+
